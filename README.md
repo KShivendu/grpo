@@ -1,3 +1,5 @@
 ### GRPO
 
-Implementation of GRPO algorithm from scratch with pytorch. Also demonstrate integration with the `gymnasium` library
+Implementation of `GRPO` algorithm introduced used in DeepSeek (introduced in [DeepSeekMath](https://arxiv.org/pdf/2402.03300)) from scratch with `PyTorch`.
+
+![grpo-balance](./images/grpo-cartpole.png)
